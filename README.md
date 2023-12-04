@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MightyPancake
 - 👀 I’m interested in making all sorts of apps, mostly video games.
-- 🌱 I’m currently learning C, Lua, V and some other languages
+- 🌱 I’m currently learning C, Lua, Go and some other languages.
 - 📫 How to reach me? Write an e-mail: amightypancake@gmail.com
 
 <!---
